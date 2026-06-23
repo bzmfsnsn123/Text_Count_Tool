@@ -1,0 +1,2 @@
+# Text_Count_Tool
+Text_Count_Tool单词统计工具，python新手练习项目，可以通过复制来得知有多少字符，也可以区分英文和中文。
